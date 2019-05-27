@@ -1,0 +1,7 @@
+.idea/
+out/
+*.iml
+txtReport/*
+wordReport/*
+reportCsv.csv
+lib/*
